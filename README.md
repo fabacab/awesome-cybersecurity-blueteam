@@ -8,15 +8,24 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 ## Contents
 
+- [Honeypots](#honeypots)
 - [Network Security Monitoring (NSM)](#network-security-monitoring-nsm)
 - [Network perimeter defenses](#network-perimeter-defenses)
-  - [Firewalling distributions](#firewalling-distributions)
-- [Security Information and Event Monitoring (SIEM)](#security-information-and-event-monitoring-siem)
+- [Firewalling distributions](#firewalling-distributions)
+- [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
+- [Service and performance monitoring](#service-and-performance-monitoring)
 - [Transport-layer defense](#transport-layer-defenses)
 
-## Network Security Monitoring
+## Honeypots
 
+See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
+
+## Network Security Monitoring (NSM)
+
+- [Bro](https://www.bro.org/) - Powerful network analysis framework focused on security monitoring.
+- [Snort](https://snort.org/) - Widely-deployed, Free Software IPS capable of real-time packet analysis, traffic logging, and custom rule-based triggers.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
+- [Suricata](https://suricata-ids.org/) - Free, cross-platform, IDS/IPS with on- and off-line analysis modes and deep packet inspection capabilities that is also scriptable with Lua.
 - [Wireshark](https://www.wireshark.org) - Free and open-source packet analyzer useful for network troubleshooting or forensic netflow analysis.
 - [netsniff-ng](http://netsniff-ng.org/) -  Free and fast GNU/Linux networking toolkit with numerous utilities such as a connection tracking tool (`flowtop`), traffic generator (`trafgen`), and autonomous system (AS) trace route utility (`astraceroute`).
 
@@ -24,7 +33,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 
-### Firewalling distributions
+## Firewalling distributions
 
 - [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
 - [pfSense](https://www.pfsense.org/) - Firewall and router FreeBSD distribution.
@@ -34,6 +43,12 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
+
+## Service and performance monitoring
+
+- [Icinga](https://icinga.com/) - Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.
+- [Nagios](https://nagios.org) - Popular network and service monitoring solution and reporting platform.
+- [OpenNMS](https://opennms.org/) - Free and feature-rich networking monitoring system supporting multiple configurations, a variety of alerting mechanisms (email, XMPP, SMS), and numerous data collection methods (SNMP, HTTP, JDBC, etc).
 
 ## Transport-layer defenses
 
