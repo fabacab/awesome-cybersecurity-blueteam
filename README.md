@@ -14,6 +14,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Firewalling distributions](#firewalling-distributions)
 - [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
 - [Service and performance monitoring](#service-and-performance-monitoring)
+- [Threat intelligence, analytics, and reporting](#threat-intelligence-analytics-and-reporting)
 - [Transport-layer defense](#transport-layer-defenses)
 
 ## Honeypots
@@ -49,6 +50,11 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Icinga](https://icinga.com/) - Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.
 - [Nagios](https://nagios.org) - Popular network and service monitoring solution and reporting platform.
 - [OpenNMS](https://opennms.org/) - Free and feature-rich networking monitoring system supporting multiple configurations, a variety of alerting mechanisms (email, XMPP, SMS), and numerous data collection methods (SNMP, HTTP, JDBC, etc).
+
+## Threat intelligence, analytics, and reporting
+
+- [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
+- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 
 ## Transport-layer defenses
 
