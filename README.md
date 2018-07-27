@@ -8,6 +8,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 ## Contents
 
+- [Host-based tools](#host-based-tools)
 - [Honeypots](#honeypots)
 - [Network Security Monitoring (NSM)](#network-security-monitoring-nsm)
 - [Network perimeter defenses](#network-perimeter-defenses)
@@ -16,6 +17,10 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Service and performance monitoring](#service-and-performance-monitoring)
 - [Threat intelligence, analytics, and reporting](#threat-intelligence-analytics-and-reporting)
 - [Transport-layer defense](#transport-layer-defenses)
+
+## Host-based tools
+
+- [Fail2Ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 
 ## Honeypots
 
@@ -53,8 +58,8 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 ## Threat intelligence, analytics, and reporting
 
-- [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
+- [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 
 ## Transport-layer defenses
 
