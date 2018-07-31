@@ -30,6 +30,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 ## Host-based tools
 
+- [Artillery](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
 - [Fail2Ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 
 ## Network Security Monitoring (NSM)
