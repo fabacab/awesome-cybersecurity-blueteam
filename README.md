@@ -28,6 +28,8 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
+- [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
+
 ## Host-based tools
 
 - [Artillery](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
