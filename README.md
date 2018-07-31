@@ -8,23 +8,29 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 ## Contents
 
-- [Host-based tools](#host-based-tools)
+- [Firewalling distributions](#firewalling-distributions)
 - [Honeypots](#honeypots)
+- [Host-based tools](#host-based-tools)
 - [Network Security Monitoring (NSM)](#network-security-monitoring-nsm)
 - [Network perimeter defenses](#network-perimeter-defenses)
-- [Firewalling distributions](#firewalling-distributions)
 - [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
 - [Service and performance monitoring](#service-and-performance-monitoring)
 - [Threat intelligence, analytics, and reporting](#threat-intelligence-analytics-and-reporting)
+- [Tor Onion service defenses](#tor-onion-service-defenses)
 - [Transport-layer defense](#transport-layer-defenses)
 
-## Host-based tools
+## Firewalling distributions
 
-- [Fail2Ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
+- [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
+- [pfSense](https://www.pfsense.org/) - Firewall and router FreeBSD distribution.
 
 ## Honeypots
 
 See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
+
+## Host-based tools
+
+- [Fail2Ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 
 ## Network Security Monitoring (NSM)
 
@@ -38,11 +44,6 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 ## Network perimeter defenses
 
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
-
-## Firewalling distributions
-
-- [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
-- [pfSense](https://www.pfsense.org/) - Firewall and router FreeBSD distribution.
 
 ## Security Information and Event Management (SIEM)
 
@@ -60,6 +61,11 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 - [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
+
+## Tor Onion service defenses
+
+- [OnionBalance](https://onionbalance.readthedocs.io/) - Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.
+- [Vanguards](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 
 ## Transport-layer defenses
 
