@@ -13,11 +13,13 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Host-based tools](#host-based-tools)
 - [Network Security Monitoring (NSM)](#network-security-monitoring-nsm)
 - [Network perimeter defenses](#network-perimeter-defenses)
+- [Practice, training, and drills](#practice-training-and-drills)
 - [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
 - [Service and performance monitoring](#service-and-performance-monitoring)
 - [Threat intelligence, analytics, and reporting](#threat-intelligence-analytics-and-reporting)
 - [Tor Onion service defenses](#tor-onion-service-defenses)
 - [Transport-layer defense](#transport-layer-defenses)
+- [Windows-based defenses](#windows-based-defenses)
 
 ## Firewalling distributions
 
@@ -48,6 +50,10 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 
+## Practice, training, and drills
+
+- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
+
 ## Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
@@ -73,6 +79,10 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 ## Transport-layer defenses
 
 - [OpenVPN](https://openvpn.net/) - Open source, SSL/TLS-based virtual private network (VPN).
+
+## Windows-based defenses
+
+- [NotRuler](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 
 # License
 
