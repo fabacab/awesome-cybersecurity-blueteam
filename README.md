@@ -8,9 +8,11 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 ## Contents
 
+- [Automation](#automation)
 - [Firewalling distributions](#firewalling-distributions)
 - [Honeypots](#honeypots)
 - [Host-based tools](#host-based-tools)
+- [Incident Response (IR) tools](#incident-response-ir-tools)
 - [Network Security Monitoring (NSM)](#network-security-monitoring-nsm)
 - [Network perimeter defenses](#network-perimeter-defenses)
 - [Practice, training, and drills](#practice-training-and-drills)
@@ -20,6 +22,13 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Tor Onion service defenses](#tor-onion-service-defenses)
 - [Transport-layer defense](#transport-layer-defenses)
 - [Windows-based defenses](#windows-based-defenses)
+
+## Automation
+
+- [Autosnort](https://github.com/da667/Autosnort) - Series of bash shell scripts designed to install a fully functional, fully updated stand-alone snort sensor with an IDS event review console of your choice, on a variety of Linux distributions.
+- [MLSec Combine](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
+- [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
+- [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 
 ## Firewalling distributions
 
@@ -37,10 +46,20 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Artillery](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
 - [Fail2Ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 
+## Incident Response (IR) tools
+
+- [CIRTKit](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
+- [GRR Rapid Response](https://github.com/google/grr) - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
+- [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit for OSX.
+- [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+
 ## Network Security Monitoring (NSM)
 
 - [Bro](https://www.bro.org/) - Powerful network analysis framework focused on security monitoring.
+- [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
+- [Maltrail](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
 - [Respounder](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
+- [Security Monkey](https://github.com/Netflix/security_monkey) - Monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations.
 - [Snort](https://snort.org/) - Widely-deployed, Free Software IPS capable of real-time packet analysis, traffic logging, and custom rule-based triggers.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
 - [Suricata](https://suricata-ids.org/) - Free, cross-platform, IDS/IPS with on- and off-line analysis modes and deep packet inspection capabilities that is also scriptable with Lua.
@@ -66,11 +85,18 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Icinga](https://icinga.com/) - Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.
 - [Nagios](https://nagios.org) - Popular network and service monitoring solution and reporting platform.
 - [OpenNMS](https://opennms.org/) - Free and feature-rich networking monitoring system supporting multiple configurations, a variety of alerting mechanisms (email, XMPP, SMS), and numerous data collection methods (SNMP, HTTP, JDBC, etc).
+- [osquery](https://github.com/facebook/osquery) - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
 
-## Threat intelligence, analytics, and reporting
+# Threat intelligence, analytics, and reporting
 
+- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?"
+- [DATA](https://github.com/hadojae/DATA) - Credential phish analysis and automation tool that can acccept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.
+- [Forager](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
+- [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - Open source software solution for collecting, storing, distributing and sharing cyber security indicators.
 - [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
+- [Viper](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
+- [threat_note](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
 
 ## Tor Onion service defenses
 
