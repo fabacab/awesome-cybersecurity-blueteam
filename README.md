@@ -9,7 +9,6 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 ## Contents
 
 - [Automation](#automation)
-- [Firewalling distributions](#firewalling-distributions)
 - [Honeypots](#honeypots)
 - [Host-based tools](#host-based-tools)
 - [Incident Response tools](#incident-response-tools)
@@ -18,6 +17,8 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
     - [Threat hunting](#threat-hunting)
 - [Network Security Monitoring (NSM)](#network-security-monitoring-nsm)
 - [Network perimeter defenses](#network-perimeter-defenses)
+    - [Firewall appliances or distributions](#firewall-appliances-or-distributions)
+- [Operating System distributions](#operating-system-distributions)
 - [Preparedness training and wargaming](#preparedness-training-and-wargaming)
 - [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
 - [Service and performance monitoring](#service-and-performance-monitoring)
@@ -30,11 +31,6 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 - [Autosnort](https://github.com/da667/Autosnort) - Series of bash shell scripts designed to install a fully functional, fully updated stand-alone snort sensor with an IDS event review console of your choice, on a variety of Linux distributions.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell interface to VirusTotal.com APIs.
-
-## Firewalling distributions
-
-- [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
-- [pfSense](https://www.pfsense.org/) - Firewall and router FreeBSD distribution.
 
 ## Honeypots
 
@@ -71,8 +67,10 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
 - [GRR Rapid Response](https://github.com/google/grr) - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
+- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook.
 - [Mozilla InvestiGator (MIG)](https://mig.mozilla.org/) - Platform to perform investigative surgery on remote endpoints.
 - [PSHunt](https://github.com/Infocyte/PSHunt) - PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.
+- [PSRecon](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
@@ -93,13 +91,26 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 
+### Firewall appliances or distributions
+
+- [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
+- [pfSense](https://www.pfsense.org/) - Firewall and router FreeBSD distribution.
+
+## Operating System distributions
+
+- [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.
+- [Security Onion](https://securityonion.net/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
+
 ## Preparedness training and wargaming
 
-(Also known as *adversary emulation* or  *threat simulation*.)
+(Also known as *adversary emulation*, *threat simulation*, or similar.)
 
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
+- [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
 - [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
+- [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
+- [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 
 ## Security Information and Event Management (SIEM)
 
