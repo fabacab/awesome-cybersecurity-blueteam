@@ -148,6 +148,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 # Transport-layer defenses
 
+- [Certbot](https://certbot.eff.org/) - Free tool to automate the issuance and renewal of TLS certificates from the [LetsEncrypt Root CA](https://letsencrypt.org/) with plugins that configure various Web and e-mail server software.
 - [OpenVPN](https://openvpn.net/) - Open source, SSL/TLS-based virtual private network (VPN).
 
 # Windows-based defenses
