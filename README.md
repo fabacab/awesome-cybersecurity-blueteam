@@ -6,7 +6,7 @@
 
 Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details. This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-## Contents
+# Contents
 
 - [Automation](#automation)
 - [Honeypots](#honeypots)
@@ -27,40 +27,40 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Transport-layer defense](#transport-layer-defenses)
 - [Windows-based defenses](#windows-based-defenses)
 
-## Automation
+# Automation
 
 - [Autosnort](https://github.com/da667/Autosnort) - Series of bash shell scripts designed to install a fully functional, fully updated stand-alone snort sensor with an IDS event review console of your choice, on a variety of Linux distributions.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell interface to VirusTotal.com APIs.
 
-## Honeypots
+# Honeypots
 
 See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 
-## Host-based tools
+# Host-based tools
 
 - [Artillery](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
 - [Fail2ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 
-## Incident Response tools
+# Incident Response tools
 
 See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
 
-### IR management consoles
+## IR management consoles
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
 - [TheHive](https://thehive-project.org/) - Scalable, free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, and CERTs, featuring tight integration with MISP.
 - [threat_note](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
 
-### Evidence collection
+## Evidence collection
 
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) - Free macOS computer forensics tool.
 - [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit for macOS.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
-### Threat hunting
+## Threat hunting
 
 (Also known as *hunt teaming*.)
 
@@ -74,7 +74,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
-## Network Security Monitoring (NSM)
+# Network Security Monitoring (NSM)
 
 - [Bro](https://www.bro.org/) - Powerful network analysis framework focused on security monitoring.
 - [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
@@ -87,21 +87,21 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [Wireshark](https://www.wireshark.org) - Free and open-source packet analyzer useful for network troubleshooting or forensic netflow analysis.
 - [netsniff-ng](http://netsniff-ng.org/) -  Free and fast GNU/Linux networking toolkit with numerous utilities such as a connection tracking tool (`flowtop`), traffic generator (`trafgen`), and autonomous system (AS) trace route utility (`astraceroute`).
 
-## Network perimeter defenses
+# Network perimeter defenses
 
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 
-### Firewall appliances or distributions
+## Firewall appliances or distributions
 
 - [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
 - [pfSense](https://www.pfsense.org/) - Firewall and router FreeBSD distribution.
 
-## Operating System distributions
+# Operating System distributions
 
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.
 - [Security Onion](https://securityonion.net/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
 
-## Preparedness training and wargaming
+# Preparedness training and wargaming
 
 (Also known as *adversary emulation*, *threat simulation*, or similar.)
 
@@ -112,12 +112,12 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 
-## Security Information and Event Management (SIEM)
+# Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
 
-## Service and performance monitoring
+# Service and performance monitoring
 
 See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
@@ -139,18 +139,18 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 - [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 - [Viper](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 
-## Tor Onion service defenses
+# Tor Onion service defenses
 
 See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [OnionBalance](https://onionbalance.readthedocs.io/) - Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 
-## Transport-layer defenses
+# Transport-layer defenses
 
 - [OpenVPN](https://openvpn.net/) - Open source, SSL/TLS-based virtual private network (VPN).
 
-## Windows-based defenses
+# Windows-based defenses
 
 See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) and [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
 
