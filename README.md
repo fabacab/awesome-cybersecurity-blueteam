@@ -9,6 +9,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 # Contents
 
 - [Automation](#automation)
+- [DevSecOps](#devsecops)
 - [Honeypots](#honeypots)
 - [Host-based tools](#host-based-tools)
 - [Incident Response tools](#incident-response-tools)
@@ -31,6 +32,13 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 - [Autosnort](https://github.com/da667/Autosnort) - Series of bash shell scripts designed to install a fully functional, fully updated stand-alone snort sensor with an IDS event review console of your choice, on a variety of Linux distributions.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell interface to VirusTotal.com APIs.
+
+# DevSecOps
+
+See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
+
+- [Git Secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
+- [Vault](https://www.vaultproject.io/) - Tool for securely accessing secrets such as API keys, passwords, or certificates through a unified interface.
 
 # Honeypots
 
