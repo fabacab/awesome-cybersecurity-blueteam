@@ -38,6 +38,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [Git Secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
+- [Prowler](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
 - [Vault](https://www.vaultproject.io/) - Tool for securely accessing secrets such as API keys, passwords, or certificates through a unified interface.
 
 # Honeypots
@@ -56,6 +57,8 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
 
+- [aws_ir](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
+
 ## IR management consoles
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
@@ -68,6 +71,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) - Free macOS computer forensics tool.
 - [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit for macOS.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 
 ## Threat hunting
 
@@ -82,6 +86,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [PSRecon](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
+- [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
 
 # Network Security Monitoring (NSM)
 
