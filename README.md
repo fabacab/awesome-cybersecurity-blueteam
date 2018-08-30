@@ -89,7 +89,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [PSRecon](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
-- [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
+- [Scout2](https://github.com/nccgroup/Scout2) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
 
 # Network Security Monitoring (NSM)
 
