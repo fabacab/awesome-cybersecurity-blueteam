@@ -107,6 +107,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 # Network perimeter defenses
 
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
+- [ssh-audit](https://github.com/arthepsy/ssh-audit.git) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
 
 ## Firewall appliances or distributions
 
