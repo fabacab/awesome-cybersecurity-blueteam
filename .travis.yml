@@ -1,12 +1,8 @@
+---
 language: ruby
-dist: trusty
 rvm:
-  - 2.2
-before_script:
+  - 2.4.1
+install:
   - gem install awesome_bot
-  - wget 'https://mkcert.org/generate/' -O bundle.pem
-  - wget 'http://cdp.pca.dfn.de/global-root-ca/pub/cacert/cacert.pem' -O dfn.pem
-  - wget 'http://cdp.pca.dfn.de/uni-potsdam-ca/pub/cacert/cacert.pem' -O potsdam.pem
-  - cat bundle.pem dfn.pem potsdam.pem > /tmp/bundle.pem
 script:
-  - SSL_CERT_FILE="/tmp/bundle.pem" awesome_bot README.md --allow-redirect
+  - awesome_bot README.md --allow-redirect --white-list "creativecommons.org"
