@@ -41,7 +41,6 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [BlackBox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
-- [Clair](https://github.com/coreos/clair) -  Statically analyze vulnerabilities in application containers (currently including appc and docker).
 - [Gauntlt](https://github.com/gauntlt/gauntlt) - Automate basic pentesting against your applications.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
 - [Prowler](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
