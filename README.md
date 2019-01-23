@@ -1,6 +1,6 @@
 # Awesome Cybersecurity Blue Team [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A collection of awesome resources, tool, and other shiny things for cybersecurity blue teams.
+> A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) are groups of individuals who identify security flaws in information technology systems, verify the effectiveness of security measures, and monitor the systems to ensure that implemented defensive measures remain effective in the future. While not exclusive, this list is heavily biased towards [Free Software](https://www.gnu.org/philosophy/free-sw.html) projects and against proprietary products or corporate services. For offensive TTPs, please see [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
@@ -83,7 +83,9 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 
 ### Threat hunting
 
-(Also known as *hunt teaming*.)
+(Also known as *hunt teaming* and *threat detection*.)
+
+See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
 
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
