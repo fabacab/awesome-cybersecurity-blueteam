@@ -13,19 +13,19 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Honeypots](#honeypots)
 - [Host-based tools](#host-based-tools)
 - [Incident Response tools](#incident-response-tools)
-    - [IR management consoles](#ir-management-consoles)
-    - [Evidence collection](#evidence-collection)
-    - [Threat hunting](#threat-hunting)
+  - [IR management consoles](#ir-management-consoles)
+  - [Evidence collection](#evidence-collection)
+  - [Threat hunting](#threat-hunting)
 - [Network Security Monitoring (NSM)](#network-security-monitoring-nsm)
 - [Network perimeter defenses](#network-perimeter-defenses)
-    - [Firewall appliances or distributions](#firewall-appliances-or-distributions)
+  - [Firewall appliances or distributions](#firewall-appliances-or-distributions)
 - [Operating System distributions](#operating-system-distributions)
 - [Preparedness training and wargaming](#preparedness-training-and-wargaming)
 - [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
 - [Service and performance monitoring](#service-and-performance-monitoring)
 - [Threat intelligence](#threat-intelligence)
 - [Tor Onion service defenses](#tor-onion-service-defenses)
-- [Transport-layer defense](#transport-layer-defenses)
+- [Transport-layer defenses](#transport-layer-defenses)
 - [Windows-based defenses](#windows-based-defenses)
 
 ## Automation
@@ -156,7 +156,7 @@ See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmi
 
 See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
-- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?"
+- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
 - [DATA](https://github.com/hadojae/DATA) - Credential phish analysis and automation tool that can acccept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.
 - [Forager](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
