@@ -27,6 +27,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Threat intelligence](#threat-intelligence)
 - [Tor Onion service defenses](#tor-onion-service-defenses)
 - [Transport-layer defenses](#transport-layer-defenses)
+- [macOS-based defenses](#macos-based-defenses)
 - [Windows-based defenses](#windows-based-defenses)
 
 ## Automation
@@ -183,6 +184,10 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 - [Certbot](https://certbot.eff.org/) - Free tool to automate the issuance and renewal of TLS certificates from the [LetsEncrypt Root CA](https://letsencrypt.org/) with plugins that configure various Web and e-mail server software.
 - [OpenVPN](https://openvpn.net/) - Open source, SSL/TLS-based virtual private network (VPN).
 - [Tor](https://torproject.org/) - Censorship circumvention and anonymizing overlay network providing distributed, cryptographically verified name services (`.onion` domains) to enhance publisher privacy and service availability.
+
+## macOS-based defenses
+
+* [macOS Fortress](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
 ## Windows-based defenses
 
