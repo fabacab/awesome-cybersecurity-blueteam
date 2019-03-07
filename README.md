@@ -188,6 +188,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 ## macOS-based defenses
 
 * [macOS Fortress](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+* [Stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 
 ## Windows-based defenses
 
