@@ -9,6 +9,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 ## Contents
 
 - [Automation](#automation)
+- [Communications security (COMSEC)](#communications-security-comsec)
 - [DevSecOps](#devsecops)
   - [Fuzzing](#Fuzzing)
 - [Honeypots](#honeypots)
@@ -37,6 +38,10 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [python-dshield](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
+
+## Communications security (COMSEC)
+
+- [GPG Sync](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
 
 ## DevSecOps
 
