@@ -13,6 +13,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [DevSecOps](#devsecops)
   - [Fuzzing](#Fuzzing)
 - [Honeypots](#honeypots)
+  - [Tarpits](#tarpits)
 - [Host-based tools](#host-based-tools)
 - [Incident Response tools](#incident-response-tools)
   - [IR management consoles](#ir-management-consoles)
@@ -66,6 +67,11 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
+
+### Tarpits
+
+- [Endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
+- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - Program that answers ARP requests for unused IP space, creating the appearance of fake machines that answer further requests very slowly in order to slow down scanners, worms, etcetera.
 
 ## Host-based tools
 
