@@ -96,6 +96,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 
 ### Evidence collection
 
+- [AutoMacTC](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) - Free macOS computer forensics tool.
 - [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit for macOS.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
