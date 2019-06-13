@@ -15,6 +15,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Honeypots](#honeypots)
   - [Tarpits](#tarpits)
 - [Host-based tools](#host-based-tools)
+  - [Sandboxes](#sandboxes)
 - [Incident Response tools](#incident-response-tools)
   - [IR management consoles](#ir-management-consoles)
   - [Evidence collection](#evidence-collection)
@@ -81,6 +82,10 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Fail2ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - Fully open source and free, feature-rich, Host-based Instrusion Detection System (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
+
+### Sandboxes
+
+- [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 
 ## Incident Response tools
 
