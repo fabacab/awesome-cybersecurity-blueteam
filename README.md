@@ -131,6 +131,8 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 
 ## Network Security Monitoring (NSM)
 
+See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
+
 - [Bro](https://www.bro.org/) - Powerful network analysis framework focused on security monitoring.
 - [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 - [Maltrail](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
