@@ -24,6 +24,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Network perimeter defenses](#network-perimeter-defenses)
   - [Firewall appliances or distributions](#firewall-appliances-or-distributions)
 - [Operating System distributions](#operating-system-distributions)
+- [Phishing awareness and reporting](#phishing-awareness-and-reporting)
 - [Preparedness training and wargaming](#preparedness-training-and-wargaming)
 - [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
 - [Service and performance monitoring](#service-and-performance-monitoring)
@@ -158,6 +159,15 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.
 - [Security Onion](https://securityonion.net/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
+
+## Phishing awareness and reporting
+
+See also [awesome-pentest § Social Engineering Tools](https://github.com/meitar/awesome-pentest#social-engineering-tools).
+
+- [Gophish](https://getgophish.com/) - Powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing.
+- [King Phisher](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
+- [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) - Outlook add-in used to help your users to report suspicious e-mails to security teams.
+- [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails. 
 
 ## Preparedness training and wargaming
 
