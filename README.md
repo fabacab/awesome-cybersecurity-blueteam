@@ -9,6 +9,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 ## Contents
 
 - [Automation](#automation)
+- [Cloud platform security](#cloud-platform-security)
 - [Communications security (COMSEC)](#communications-security-comsec)
 - [DevSecOps](#devsecops)
   - [Fuzzing](#Fuzzing)
@@ -46,6 +47,12 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
 
+## Cloud platform security
+
+- [Prowler](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+- [Scout Suite](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+- [Security Monkey](https://github.com/Netflix/security_monkey) - Monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations.
+
 ## Communications security (COMSEC)
 
 - [GPG Sync](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
@@ -59,7 +66,6 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 - [Clair](https://github.com/coreos/clair) - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
 - [Gauntlt](http://gauntlt.org/) - Pentest applications during routine continuous integration build pipelines.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
-- [Prowler](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
 - [Vault](https://www.vaultproject.io/) - Tool for securely accessing secrets such as API keys, passwords, or certificates through a unified interface.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/) - Transparent file encryption in git; files which you choose to protect are encrypted when committed, and decrypted when checked out.
 - [SonarQube](https://sonarqube.org) - Continuous inspection tool that provides detailed reports during automated testing and alerts on newly introduced security vulnerabilities.
@@ -129,7 +135,6 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
-- [Scout2](https://github.com/nccgroup/Scout2) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
 
 ## Network Security Monitoring (NSM)
 
@@ -139,7 +144,6 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 - [Maltrail](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
 - [Respounder](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
-- [Security Monkey](https://github.com/Netflix/security_monkey) - Monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations.
 - [Snort](https://snort.org/) - Widely-deployed, Free Software IPS capable of real-time packet analysis, traffic logging, and custom rule-based triggers.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
 - [Suricata](https://suricata-ids.org/) - Free, cross-platform, IDS/IPS with on- and off-line analysis modes and deep packet inspection capabilities that is also scriptable with Lua.
