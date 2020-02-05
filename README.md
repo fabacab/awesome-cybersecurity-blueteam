@@ -116,6 +116,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [Rekall](http://www.rekall-forensic.com/) - Advanced forensic and incident response framework.
 - [TheHive](https://thehive-project.org/) - Scalable, free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, and CERTs, featuring tight integration with MISP.
 - [threat_note](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
+- [True Positive](https://truepositive.app/) - SaaS-delivered web application to track and collaborate on your org's security investigations. It's well-documented, you can do everything you can do in the UI via the API, you can standardize your IR processes with case templates, you can restrict access to cases and you can painlessly create cases from emails. Best of all - it's free, with full functionality, up to 5 users.
 
 ### Evidence collection
 
