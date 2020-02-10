@@ -159,7 +159,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 ## Network perimeter defenses
 
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
-- [ssh-audit](https://github.com/arthepsy/ssh-audit.git) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
+- [ssh-audit](https://github.com/jtesta/ssh-audit) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
 
 ### Firewall appliances or distributions
 
