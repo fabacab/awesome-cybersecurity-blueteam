@@ -149,6 +149,8 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Bro](https://www.bro.org/) - Powerful network analysis framework focused on security monitoring.
 - [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 - [Maltrail](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
+- [Moloch](https://github.com/aol/moloch) - Moloch augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access. An intuitive and simple web interface is provided for PCAP browsing, searching, and exporting.
+- [Owlh](https://github.com/OwlH-net) - Helping to manage Network IDS at scale:  Security Alerts (Suricata,Moloch,Wazuh)). Traffic and Protocol Analysis,; Anomalies Detection. Integration with ELK and other 3rd party Storage/Visualization Solutions
 - [Respounder](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
 - [Snort](https://snort.org/) - Widely-deployed, Free Software IPS capable of real-time packet analysis, traffic logging, and custom rule-based triggers.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
