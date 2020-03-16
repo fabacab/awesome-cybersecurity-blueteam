@@ -14,6 +14,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [DevSecOps](#devsecops)
   - [Application or Binary Hardening](#application-or-binary-hardening)
   - [Fuzzing](#Fuzzing)
+  - [Policy enforcement](#policy-enforcement)
 - [Honeypots](#honeypots)
   - [Tarpits](#tarpits)
 - [Host-based tools](#host-based-tools)
@@ -39,6 +40,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 ## Automation
 
 - [Ansible Lockdown](https://ansiblelockdown.io/) - Curated collection of information security themed Ansible roles that are both vetted and actively maintained.
+- [Clevis](https://github.com/latchset/clevis) - Plugable framework for automated decryption, often used as a Tang client.
 - [Dev-Sec.io](https://dev-sec.io/) - Server hardening framework providing Ansible, Chef, and Puppet implementations of various baseline security configurations.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) - Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.
 - [MultiScanner](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
@@ -83,6 +85,11 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 ### Fuzzing
 
 See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
+
+### Policy enforcement
+
+- [OpenPolicyAgent](https://www.openpolicyagent.org/) - Unified toolset and framework for policy across the cloud native stack.
+- [Tang](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
 
 ## Honeypots
 
