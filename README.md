@@ -89,6 +89,8 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
+* [FuzzBench](https://google.github.io/fuzzbench/) - Free service that evaluates fuzzers on a wide variety of real-world benchmarks, at Google scale.
+
 ### Policy enforcement
 
 - [OpenPolicyAgent](https://www.openpolicyagent.org/) - Unified toolset and framework for policy across the cloud native stack.
