@@ -271,6 +271,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 ## macOS-based defenses
 
+- [BlockBlock](https://objective-see.com/products/blockblock.html) - Monitors common persistence locations and alerts whenever a persistent component is added, which helps to detect and prevent malware installation.
 - [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
 - [Santa](https://github.com/google/santa) - Binary whitelisting/blacklisting system for macOS.
 - [Stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
