@@ -88,7 +88,7 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 ### Fuzzing
 
-See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
+See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 * [FuzzBench](https://google.github.io/fuzzbench/) - Free service that evaluates fuzzers on a wide variety of real-world benchmarks, at Google scale.
 
