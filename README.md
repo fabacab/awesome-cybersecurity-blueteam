@@ -224,6 +224,7 @@ See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmi
 - [Nagios](https://nagios.org) - Popular network and service monitoring solution and reporting platform.
 - [OpenNMS](https://opennms.org/) - Free and feature-rich networking monitoring system supporting multiple configurations, a variety of alerting mechanisms (email, XMPP, SMS), and numerous data collection methods (SNMP, HTTP, JDBC, etc).
 - [osquery](https://github.com/facebook/osquery) - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
+- [Zabbix](https://www.zabbix.com/) - Mature, enterprise-level platform to monitor large-scale IT environments.
 
 ### Threat hunting
 
