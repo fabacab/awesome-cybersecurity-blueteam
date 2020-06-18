@@ -9,6 +9,8 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 ## Contents
 
 - [Automation](#automation)
+  - [Code libraries and bindings](#code-libraries-and-bindings)
+  - [Security Orchestration, Automation, and Response (SOAR)](#security-orchestration-automation-and-response-soar)
 - [Cloud platform security](#cloud-platform-security)
 - [Communications security (COMSEC)](#communications-security-comsec)
 - [DevSecOps](#devsecops)
@@ -43,17 +45,25 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 
 - [Ansible Lockdown](https://ansiblelockdown.io/) - Curated collection of information security themed Ansible roles that are both vetted and actively maintained.
 - [Clevis](https://github.com/latchset/clevis) - Plugable framework for automated decryption, often used as a Tang client.
-- [Dev-Sec.io](https://dev-sec.io/) - Server hardening framework providing Ansible, Chef, and Puppet implementations of various baseline security configurations.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) - Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.
+- [Dev-Sec.io](https://dev-sec.io/) - Server hardening framework providing Ansible, Chef, and Puppet implementations of various baseline security configurations.
+- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Scriptable PDF file analyzer.
+
+### Code libraries and bindings
+
 - [MultiScanner](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell interface to VirusTotal.com APIs.
-- [Shuffle](https://shuffler.io/) - Graphical generalized workflow (automation) builder for IT professionals and blue teamers.
 - [censys-python](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
 - [libcrafter](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
-- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Scriptable PDF file analyzer.
 - [python-dshield](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
+
+### Security Orchestration, Automation, and Response (SOAR)
+
+See also [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem), and [IR management consoles](#ir-management-consoles).
+
+- [Shuffle](https://shuffler.io/) - Graphical generalized workflow (automation) builder for IT professionals and blue teamers.
 
 ## Cloud platform security
 
@@ -132,6 +142,8 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
 
 ### IR management consoles
+
+See also [Security Orchestration, Automation, and Response (SOAR)](#security-orchestration-automation-and-response-soar).
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
