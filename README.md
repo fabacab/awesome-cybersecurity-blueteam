@@ -164,6 +164,7 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 
 ## Network perimeter defenses
 
+- [Gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 - [ssh-audit](https://github.com/jtesta/ssh-audit) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
 
