@@ -101,7 +101,10 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 ### Application or Binary Hardening
 
+- [DynInst](https://dyninst.org/dyninst) - Tools for binary instrumentation, analysis, and modification, useful for binary patching.
+- [DynamoRIO](https://dynamorio.org/) - Runtime code manipulation system that supports code transformations on any part of a program, while it executes, implemented as a process-level virtual machine.
 - [Egalito](https://egalito.org/) - Binary recompiler and instrumentation framework that can fully disassemble, transform, and regenerate ordinary Linux binaries designed for binary hardening and security research.
+- [Valgrind](https://www.valgrind.org/) - Instrumentation framework for building dynamic analysis tools.
 
 ### Fuzzing
 
