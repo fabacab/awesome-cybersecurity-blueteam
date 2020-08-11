@@ -15,6 +15,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 - [Communications security (COMSEC)](#communications-security-comsec)
 - [DevSecOps](#devsecops)
   - [Application or Binary Hardening](#application-or-binary-hardening)
+  - [Compliance testing and reporting](#compliance-testing-and-reporting)
   - [Fuzzing](#fuzzing)
   - [Policy enforcement](#policy-enforcement)
 - [Honeypots](#honeypots)
@@ -106,6 +107,11 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 - [Egalito](https://egalito.org/) - Binary recompiler and instrumentation framework that can fully disassemble, transform, and regenerate ordinary Linux binaries designed for binary hardening and security research.
 - [Valgrind](https://www.valgrind.org/) - Instrumentation framework for building dynamic analysis tools.
 
+### Compliance testing and reporting
+
+- [Chef InSpec](https://www.chef.io/products/chef-inspec) - Language for describing security and compliance rules, which become automated tests that can be run against IT infrastructures to discover and report on non-compliance.
+- [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - Both a library and a command line tool (`oscap`) used to evaluate a system against SCAP baseline profiles to report on the security posture of the scanned system(s). 
+
 ### Fuzzing
 
 See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
@@ -135,7 +141,6 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [chkrootkit](http://chkrootkit.org/) - Locally checks for signs of a rootkit on GNU/Linux systems.
 - [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - Free tool for Windows systems aimed to alert you to the presence of malware that may be communicating over the network.
 - [Fail2ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
-- [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - Both a library and a command line tool (`oscap`) used to evaluate a system against SCAP baseline profiles to report on the security posture of the scanned system(s). 
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - Fully open source and free, feature-rich, Host-based Instrusion Detection System (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
 
