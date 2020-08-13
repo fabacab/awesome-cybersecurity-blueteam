@@ -81,7 +81,10 @@ See also [asecure.cloud/tools](https://asecure.cloud/tools/).
 
 ## Communications security (COMSEC)
 
+See also [Transport-layer defenses](#transport-layer-defenses).
+
 - [GPG Sync](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
+- [Geneva (Genetic Evasion)](https://censorship.ai/) - Novel experimental genetic algorithm that evolves packet-manipulation-based censorship evasion strategies against nation-state level censors to increase availability of otherwise blocked content.
 
 ## DevSecOps
 
