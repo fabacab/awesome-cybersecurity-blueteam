@@ -90,6 +90,7 @@ See also [Transport-layer defenses](#transport-layer-defenses).
 
 See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
+- [Bane](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
 - [BlackBox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
 - [Cilium](https://cilium.io/) - Open source software for transparently securing the network connectivity between application services deployed using Linux container management platforms like Docker and Kubernetes.
 - [Clair](https://github.com/coreos/clair) - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
