@@ -123,6 +123,7 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 * [FuzzBench](https://google.github.io/fuzzbench/) - Free service that evaluates fuzzers on a wide variety of real-world benchmarks, at Google scale.
+* [OneFuzz](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-as-a-Service (FaaS) platform.
 
 ### Policy enforcement
 
