@@ -314,7 +314,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [BlockBlock](https://objective-see.com/products/blockblock.html) - Monitors common persistence locations and alerts whenever a persistent component is added, which helps to detect and prevent malware installation.
 - [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
-- [Santa](https://github.com/google/santa) - Binary whitelisting/blacklisting system for macOS.
+- [Santa](https://github.com/google/santa) - Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.
 - [Stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [macOS Fortress](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
