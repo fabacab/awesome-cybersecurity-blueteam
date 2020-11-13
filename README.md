@@ -312,6 +312,8 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 ## macOS-based defenses
 
+See also [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide).
+
 - [BlockBlock](https://objective-see.com/products/blockblock.html) - Monitors common persistence locations and alerts whenever a persistent component is added, which helps to detect and prevent malware installation.
 - [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
 - [Santa](https://github.com/google/santa) - Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.
