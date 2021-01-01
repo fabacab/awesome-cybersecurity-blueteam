@@ -38,6 +38,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 - [Operating System distributions](#operating-system-distributions)
 - [Phishing awareness and reporting](#phishing-awareness-and-reporting)
 - [Preparedness training and wargaming](#preparedness-training-and-wargaming)
+- [Security configurations](#security-configurations)
 - [Security monitoring](#security-monitoring)
   - [Endpoint Detection and Response (EDR)](#endpoint-detection-and-response-edr)
   - [Network Security Monitoring (NSM)](#network-security-monitoring-nsm)
@@ -197,7 +198,6 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 - [Gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 - [ssh-audit](https://github.com/jtesta/ssh-audit) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
-- [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
 
 ### Firewall appliances or distributions
 
@@ -233,6 +233,12 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 - [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
+
+## Security configurations
+
+(Also known as *secure-by-default baselines* and *implemented best practices*.)
+
+- [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
 
 ## Security monitoring
 
@@ -346,7 +352,7 @@ See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#s
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) - Utility that disables a number of risky Windows features.
 - [NotRuler](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
-- [PlumHound](https://plumhound.defensiveorigins.com/) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
+- [PlumHound](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
 - [Sandboxie](https://www.sandboxie.com/) - Free and open source general purpose Windows application sandboxing utility.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - Audit a Windows host's root certificate store against Microsoft's [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
