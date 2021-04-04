@@ -228,8 +228,11 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 
 ### Firewall appliances or distributions
 
-- [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
-- [pfSense](https://www.pfsense.org/) - Firewall and router FreeBSD distribution.
+See also [Wikipedia: List of router and firewall distributions](https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions).
+
+- [IPFire](https://www.ipfire.org/) - Hardened GNU/Linux based router and firewall distribution forked from IPCop.
+- [OPNsense](https://opnsense.org/) - Hardened FreeBSD based firewall and routing platform forked from pfSense.
+- [pfSense](https://www.pfsense.org/) - FreeBSD firewall and router distribution forked from m0n0wall.
 
 ## Operating System distributions
 
