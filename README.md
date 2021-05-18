@@ -182,7 +182,9 @@ See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ### Supply chain security
 
+- [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern your software supply chain.
 - [Helm GPG (GnuPG) Plugin](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
+- [Notary](https://github.com/theupdateframework/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
 
 ## Honeypots
 
