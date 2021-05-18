@@ -29,6 +29,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
   - [Compliance testing and reporting](#compliance-testing-and-reporting)
   - [Fuzzing](#fuzzing)
   - [Policy enforcement](#policy-enforcement)
+  - [Supply chain security](#supply-chain-security)
 - [Honeypots](#honeypots)
   - [Tarpits](#tarpits)
 - [Host-based tools](#host-based-tools)
@@ -176,6 +177,10 @@ See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - Unified toolset and framework for policy across the cloud native stack.
 - [Tang](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
+
+### Supply chain security
+
+- [Helm GPG (GnuPG) Plugin](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
 
 ## Honeypots
 
