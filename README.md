@@ -34,6 +34,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
   - [Tarpits](#tarpits)
 - [Host-based tools](#host-based-tools)
   - [Sandboxes](#sandboxes)
+- [Identity and AuthN/AuthZ)](#identity-and-authnauthz)
 - [Incident Response tools](#incident-response-tools)
   - [IR management consoles](#ir-management-consoles)
   - [Evidence collection](#evidence-collection)
@@ -214,6 +215,10 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
 - [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 - [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
+
+## Identity and AuthN/AuthZ
+
+- [Gluu Server](https://gluu.org/) - Central authentication and authorization for Web and mobile applications with a Free and Open Source Software cloud-native community distribution.
 
 ## Incident Response tools
 
