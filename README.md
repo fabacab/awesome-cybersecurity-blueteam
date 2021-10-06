@@ -394,6 +394,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [Certbot](https://certbot.eff.org/) - Free tool to automate the issuance and renewal of TLS certificates from the [LetsEncrypt Root CA](https://letsencrypt.org/) with plugins that configure various Web and e-mail server software.
 - [Innernet](https://github.com/tonarino/innernet) - Private network system that uses WireGuard under the hood.
+- [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
 - [MITMEngine](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
 - [Nebula](https://github.com/slackhq/nebula) - Scalable overlay networking tool with a focus on performance, simplicity and security.
 - [OpenVPN](https://openvpn.net/) - Open source, SSL/TLS-based virtual private network (VPN).
