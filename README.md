@@ -173,6 +173,8 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 ### Dependency confusion
 
+See also [§ Supply chain security](#supply-chain-security).
+
 - [Dependency Combobulator](https://github.com/apiiro/combobulator) - Open source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks.
 - [Confusion checker](https://github.com/sonatype-nexus-community/repo-diff) - Script to check if you have artifacts containing the same name between your repositories.
 - [snync](https://github.com/snyk-labs/snync) - Prevent and detect if you're vulnerable to Dependency Confusion supply chain security attacks.
@@ -193,6 +195,8 @@ See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Tang](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
 
 ### Supply chain security
+
+See also [§ Dependency confusion](#dependency-confusion).
 
 - [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern your software supply chain.
 - [Helm GPG (GnuPG) Plugin](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
