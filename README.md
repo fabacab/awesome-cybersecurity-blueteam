@@ -97,6 +97,7 @@ See also [asecure.cloud/tools](https://asecure.cloud/tools/).
 - [Prowler](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 - [gVisor](https://github.com/google/gvisor) - Application kernel, written in Go, that implements a substantial portion of the Linux system surface to provide an isolation boundary between the application and the host kernel.
+- [Dorothy](https://github.com/elastic/dorothy) - A tool to help security teams test their monitoring and detection capabilities for their Okta single sign-on (SSO) environment
 
 ### Distributed monitoring
 
