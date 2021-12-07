@@ -35,7 +35,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
   - [Tarpits](#tarpits)
 - [Host-based tools](#host-based-tools)
   - [Sandboxes](#sandboxes)
-- [Identity and AuthN/AuthZ)](#identity-and-authnauthz)
+- [Identity and AuthN/AuthZ](#identity-and-authnauthz)
 - [Incident Response tools](#incident-response-tools)
   - [IR management consoles](#ir-management-consoles)
   - [Evidence collection](#evidence-collection)
