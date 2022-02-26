@@ -320,6 +320,8 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 ## Security monitoring
 
+* [Starbase](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
+
 ### Endpoint Detection and Response (EDR)
 
 - [Wazuh](https://wazuh.com/) - Open source, multiplatform agent-based security monitoring based on a fork of OSSEC HIDS.
