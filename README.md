@@ -227,6 +227,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Fail2ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - Fully open source and free, feature-rich, Host-based Instrusion Detection System (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
+- [PyRedactKit](https://github.com/brootware/PyRedactKit) - Open source and freeCLI tool to redact sensitive data like emails, identity cards, ip addresses and domains from log files. 
 
 ### Sandboxes
 
