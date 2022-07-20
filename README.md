@@ -435,6 +435,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 - [Tailscale](https://tailscale.com/) - Managed freemium mesh VPN service built on top of WireGuard.
 - [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 - [tinc](https://tinc-vpn.org/) - Free Software mesh VPN implemented entirely in userspace that supports expandable network space, bridged ethernet segments, and more.
+- [Firezone](https://www.firezone.dev/) - Self-hosted VPN server built on WireGuard that supports MFA and SSO.
 
 ## macOS-based defenses
 
