@@ -284,8 +284,11 @@ See also [Wikipedia: List of router and firewall distributions](https://en.wikip
 ## Operating System distributions
 
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.
-- [Security Onion](https://securityonion.net/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
+- [Security Onion](https://securityonionsolutions.com/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
 - [Qubes OS](https://qubes-os.org/) - Desktop environment built atop the Xen hypervisor project that runs each end-user program in its own virtual machine intended to provide strict security controls to constrain the reach of any successful malware exploit.
+- [FLARE VM](https://www.mandiant.com/resources/flare-vm-the-windows-malware) - Windows-based fully configured platform with a comprehensive collection of Windows security tools such as debuggers, disassemblers, decompilers, static and dynamic analysis utilities, network analysis and manipulation, web assessment, exploitation, vulnerability assessment applications, and many others.
+- [REMnux](https://remnux.org/) - A Linux Toolkit for Malware Analysis. It provides a curated collection of free tools created by the community. Analysts can use it to investigate malware without having to find, install, and configure the tools.
+- [SIFT](https://www.sans.org/tools/sift-workstation/) - Collection of free and open-source incident response and forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
 
 ## Phishing awareness and reporting
 
