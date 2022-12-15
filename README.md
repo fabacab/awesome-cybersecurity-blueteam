@@ -429,6 +429,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 ### Overlay and Virtual Private Networks (VPNs)
 
+- [Firezone](https://www.firezone.dev/) - Self-hosted VPN server built on WireGuard that supports MFA and SSO.
 - [Headscale](https://github.com/juanfont/headscale) - Open source, self-hosted implementation of the Tailscale control server.
 - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
 - [Innernet](https://github.com/tonarino/innernet) - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
@@ -438,7 +439,6 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 - [Tailscale](https://tailscale.com/) - Managed freemium mesh VPN service built on top of WireGuard.
 - [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 - [tinc](https://tinc-vpn.org/) - Free Software mesh VPN implemented entirely in userspace that supports expandable network space, bridged ethernet segments, and more.
-- [Firezone](https://www.firezone.dev/) - Self-hosted VPN server built on WireGuard that supports MFA and SSO.
 
 ## macOS-based defenses
 
