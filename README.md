@@ -335,9 +335,9 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
+- [Arkime](https://github.com/arkime/arkime) - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 - [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 - [Maltrail](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
-- [Moloch](https://github.com/aol/moloch) - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 - [OwlH](https://www.owlh.net/) - Helps manage network IDS at scale by visualizing Suricata, Zeek, and Moloch life cycles.
 - [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
 - [Respounder](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
