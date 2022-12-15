@@ -287,6 +287,7 @@ See also [Wikipedia: List of router and firewall distributions](https://en.wikip
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.
 - [Security Onion](https://securityonion.net/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
 - [Qubes OS](https://qubes-os.org/) - Desktop environment built atop the Xen hypervisor project that runs each end-user program in its own virtual machine intended to provide strict security controls to constrain the reach of any successful malware exploit.
+- [SIFT](https://www.sans.org/tools/sift-workstation/) - Collection of free and open-source incident response and forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
 
 ## Phishing awareness and reporting
 
