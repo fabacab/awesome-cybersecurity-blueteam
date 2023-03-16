@@ -230,6 +230,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Fail2ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - Fully open source and free, feature-rich, Host-based Instrusion Detection System (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
+- [Shufflecake](https://shufflecake.net/) - Plausible deniability for multiple hidden filesystems on Linux.
 - [USB Keystroke Injection Protection](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
 - [chkrootkit](http://chkrootkit.org/) - Locally checks for signs of a rootkit on GNU/Linux systems.
 
