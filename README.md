@@ -217,6 +217,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 - [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 - [Manuka](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
+- [Mimicry](https://github.com/chaitin/mimicry) - Mimicry is a dynamic deception tool that actively deceives an attacker during exploitation and post-exploitation.
 
 ### Tarpits
 
