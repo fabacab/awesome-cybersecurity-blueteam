@@ -44,6 +44,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 - [Operating System distributions](#operating-system-distributions)
 - [Phishing awareness and reporting](#phishing-awareness-and-reporting)
 - [Preparedness training and wargaming](#preparedness-training-and-wargaming)
+  - [Post-engagement analysis and reporting](#post-engagement-analysis-and-reporting)
 - [Security configurations](#security-configurations)
 - [Security monitoring](#security-monitoring)
   - [Endpoint Detection and Response (EDR)](#endpoint-detection-and-response-edr)
@@ -269,6 +270,7 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 - [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit for macOS.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 - [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+- [Untitled Goose Tool](https://github.com/cisagov/untitledgoosetool) - Assists incident response teams by exporting cloud artifacts from Azure/AzureAD/M365 environments in order to run a full investigation despite lacking in logs ingested by a SIEM.
 
 ## Network perimeter defenses
 
@@ -319,6 +321,10 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 - [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic originally designed to replay malicious traffic patterns to Intrusion Detection/Prevention Systems.
 
+### Post-engagement analysis and reporting
+
+- [RedEye](https://cisagov.github.io/RedEye/) - Analytic tool to assist both Red and Blue teams with visualizing and reporting command and control activities, replay and demonstrate attack paths, and more clearly communicate remediation recommendations to stakeholders.
+
 ## Security configurations
 
 (Also known as *secure-by-default baselines* and *implemented best practices*.)
@@ -327,7 +333,8 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 ## Security monitoring
 
-* [Starbase](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
+- [Crossfeed](https://docs.crossfeed.cyber.dhs.gov/) - Continuously enumerates and monitors an organization’s public-facing attack surface in order to discover assets and flag potential security flaws.
+- [Starbase](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
 
 ### Endpoint Detection and Response (EDR)
 
