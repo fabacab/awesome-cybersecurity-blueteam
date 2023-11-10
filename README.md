@@ -304,6 +304,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails. 
 - [mailspoof](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
+- [ThePhish](https://github.com/emalderson/ThePhish) - An automated phishing email analysis tool based on TheHive, Cortex and MISP.
 
 ## Preparedness training and wargaming
 
