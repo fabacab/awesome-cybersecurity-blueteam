@@ -16,7 +16,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 
 ## Contents
 
-- [Automation](#automation)
+- [Automation and Convention](#automation-and-convention)
   - [Code libraries and bindings](#code-libraries-and-bindings)
   - [Security Orchestration, Automation, and Response (SOAR)](#security-orchestration-automation-and-response-soar)
 - [Cloud platform security](#cloud-platform-security)
@@ -62,12 +62,13 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 - [Windows-based defenses](#windows-based-defenses)
   - [Active Directory](#active-directory)
 
-## Automation
+## Automation and Convention
 
 - [Ansible Lockdown](https://ansiblelockdown.io/) - Curated collection of information security themed Ansible roles that are both vetted and actively maintained.
 - [Clevis](https://github.com/latchset/clevis) - Plugable framework for automated decryption, often used as a Tang client.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) - Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.
 - [Dev-Sec.io](https://dev-sec.io/) - Server hardening framework providing Ansible, Chef, and Puppet implementations of various baseline security configurations.
+- [Password Manager Resources](https://github.com/apple/password-manager-resources) - Collaborative, crowd-sourced data and code to make password management better.
 - [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Scriptable PDF file analyzer.
 - [PyREBox](https://talosintelligence.com/pyrebox) - Python-scriptable reverse engineering sandbox, based on QEMU.
 - [Watchtower](https://containrrr.dev/watchtower/) - Container-based solution for automating Docker container base image updates, providing an unattended upgrade experience.
