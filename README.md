@@ -143,7 +143,8 @@ See also [Transport-layer defenses](#transport-layer-defenses).
 - [GlobaLeaks](https://www.globaleaks.org/) - Free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [SecureDrop](https://securedrop.org/) - Open source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 - [Teleport](https://goteleport.com/) - Allows engineers and security professionals to unify access for SSH servers, Kubernetes clusters, web applications, and databases across all environments.
-
+- [Sshman](https://github.com/SpikeTheDragon40k/sshman) - Secure SSH key and connection manager with encrypted vault, key generation, and direct SSH connection support.
+  
 ## DevSecOps
 
 See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
