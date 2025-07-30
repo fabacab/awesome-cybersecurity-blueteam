@@ -341,6 +341,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 ### Endpoint Detection and Response (EDR)
 
 - [Wazuh](https://wazuh.com/) - Open source, multiplatform agent-based security monitoring based on a fork of OSSEC HIDS.
+- [Pareto Security](https://paretosecurity.com/) - Open source systray app for basic security hygiene on Linux/Mac/Wins desktops, with optional web-based dashboard.
 
 ### Network Security Monitoring (NSM)
 
