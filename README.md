@@ -286,6 +286,7 @@ See also [Wikipedia: List of router and firewall distributions](https://en.wikip
 - [IPFire](https://www.ipfire.org/) - Hardened GNU/Linux based router and firewall distribution forked from IPCop.
 - [OPNsense](https://opnsense.org/) - Hardened FreeBSD based firewall and routing platform forked from pfSense.
 - [pfSense](https://www.pfsense.org/) - FreeBSD firewall and router distribution forked from m0n0wall.
+- [UUSEC WAF](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP).
 
 ## Operating System distributions
 
