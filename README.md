@@ -253,6 +253,8 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 - [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
+- [ViperKit](https://github.com/jtarkington77/ViperKit) - Portable, offline-first Windows incident response toolkit for Windows endpoints, designed for MSP and IT teams without dedicated security staff. Guides Tier 1/2 technicians through a tabbed Hunt → Persist → Sweep → Cleanup → Harden → Case workflow for persistence discovery, cleanup, hardening, and reporting with guardrails.
+
 
 ### IR management consoles
 
