@@ -413,7 +413,8 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 - [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 - [Viper](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 - [YARA](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
-
+- [ThreatCluster](https://threatcluster.io) - Free threat intelligence platform that aggregates and semantically clusters 5,000+ sources for SOC teams and threat analysts. Automatically extracts APT groups, malware families, CVEs, TTPs, and IOCs. Provides web interface, MISP feeds, and daily digest.
+  
 ### Fingerprinting
 
 - [HASSH](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
