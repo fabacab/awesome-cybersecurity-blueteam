@@ -412,6 +412,7 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
 - [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 - [Viper](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
+- [Whisper](https://whisper.security) - Real-time graph intelligence platform that correlates 45 billion internet infrastructure data points (BGP, DNS, WHOIS, SSL/TLS) to provide threat context, reduce false positives, and answer complex infrastructure questions in seconds.
 - [YARA](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
 
 ### Fingerprinting
