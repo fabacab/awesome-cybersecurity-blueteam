@@ -241,6 +241,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
 - [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 - [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
+- [n01d-machine](https://github.com/bad-antics/n01d-machine) - Native Rust VM manager with sandboxing, Tor/VPN integration, and network isolation for running untrusted applications in fully isolated virtual environments.
 
 ## Identity and AuthN/AuthZ
 
