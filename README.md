@@ -235,6 +235,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Shufflecake](https://shufflecake.net/) - Plausible deniability for multiple hidden filesystems on Linux.
 - [USB Keystroke Injection Protection](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
 - [chkrootkit](http://chkrootkit.org/) - Locally checks for signs of a rootkit on GNU/Linux systems.
+- [NullSec Discord Shield](https://github.com/bad-antics/nullsec-discord-shield) - Discord token hardening and anti-theft protection with AES-256-GCM encrypted vault, memory obfuscation, and grabber detection.
 
 ### Sandboxes
 
