@@ -331,7 +331,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 (Also known as *secure-by-default baselines* and *implemented best practices*.)
 
-- [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
+- [BunkerWeb](https://github.com/bunkerity/bunkerweb) - A next-generation, open-source Web Application Firewall (WAF).
 
 ## Security monitoring
 
