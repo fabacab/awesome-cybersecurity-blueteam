@@ -219,6 +219,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 - [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 - [Manuka](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
+- [WebDecoy](https://github.com/WebDecoy/wordpress-plugin) - Zero-configuration WordPress plugin that acts as an inline honeypot, detecting bots through invisible trap fields, behavioral analysis, and SHA-256 proof-of-work challenges.
 
 ### Tarpits
 
