@@ -217,6 +217,7 @@ See also [§ Dependency confusion](#dependency-confusion).
 See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA with behavioral analysis that detects bots, vision AI agents, and headless browsers through 40+ signals and SHA-256 proof of work.
 - [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 - [Manuka](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
 
