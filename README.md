@@ -166,6 +166,7 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 - [helm-secrets](https://github.com/jkroepke/helm-secrets) - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
 - [terrascan](https://runterrascan.io/) - Static code analyzer for Infrastructure as Code tools that helps detect compliance and security violations to mitigate risk before provisioning cloud native resources.
 - [tfsec](https://aquasecurity.github.io/tfsec/) - Static analysis security scanner for your Terraform code designed to run locally and in CI pipelines.
+- [Sentinel AI](https://github.com/MaxwellCalkin/sentinel-ai) - Real-time safety scanning SDK for LLM applications including prompt injection detection, PII redaction, code vulnerability scanning, and dangerous tool call blocking with sub-millisecond latency.
 
 ### Application or Binary Hardening
 
