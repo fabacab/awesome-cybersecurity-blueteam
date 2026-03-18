@@ -305,6 +305,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails. 
 - [mailspoof](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
+- [IntoDNS.ai](https://intodns.ai/) - Free DNS and email security scanner that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered fix suggestions.
 
 ## Preparedness training and wargaming
 
