@@ -157,6 +157,7 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 - [DefectDojo](https://www.defectdojo.org/) - Application vulnerability management tool built for DevOps and continuous security integration.
 - [Gauntlt](http://gauntlt.org/) - Pentest applications during routine continuous integration build pipelines.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
+- [Inkog](https://github.com/inkog-io/inkog) - Open-source AI agent security scanner that detects prompt injection, infinite loops, token bombing, and missing human oversight across 20+ agent frameworks. CLI and MCP server with SARIF output and compliance mapping to EU AI Act, OWASP LLM Top 10, and NIST AI RMF.
 - [SOPS](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
 - [Snyk](https://snyk.io/) - Finds and fixes vulnerabilities and license violations in open source dependencies and container images.
 - [SonarQube](https://sonarqube.org) - Continuous inspection tool that provides detailed reports during automated testing and alerts on newly introduced security vulnerabilities.
