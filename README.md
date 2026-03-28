@@ -60,6 +60,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
   - [Overlay and Virtual Private Networks (VPNs)](#overlay-and-virtual-private-networks-vpns)
 - [macOS-based defenses](#macos-based-defenses)
 - [Windows-based defenses](#windows-based-defenses)
+- [ReleaseRun](https://releaserun.com/) - Browser-based dependency health checkers for package.json, go.mod, Cargo.toml, requirements.txt, Gemfile, pom.xml, and more. Flags EOL packages and known CVEs.
   - [Active Directory](#active-directory)
 
 ## Automation and Convention
