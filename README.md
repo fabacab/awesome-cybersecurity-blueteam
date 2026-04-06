@@ -14,6 +14,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 
 **[DEFUND THE POLICE.](https://defundthepolice.org/)**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security scanning, network monitoring, and automated threat detection for blue team operations. MIT licensed.
 ## Contents
 
 - [Automation and Convention](#automation-and-convention)
