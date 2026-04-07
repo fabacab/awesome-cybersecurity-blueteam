@@ -401,6 +401,7 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 - [AttackerKB](https://attackerkb.com/) - Free and public crowdsourced vulnerability assessment platform to help prioritize high-risk patch application and combat vulnerability fatigue.
+- [CyberBriefing](https://cyberbriefing.info) - API service providing access to 2.7M+ historical cybersecurity news articles (2007–2023) with full-text search, CVE/CVSS context, and AI-generated threat briefings for building security dashboards and research tools.
 - [DATA](https://github.com/hadojae/DATA) - Credential phish analysis and automation tool that can accept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.
 - [Forager](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
