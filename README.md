@@ -259,6 +259,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 See also [Security Orchestration, Automation, and Response (SOAR)](#security-orchestration-automation-and-response-soar).
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
+- [DFIR Platform](https://platform.dfir-lab.ch) - API-first incident response toolkit with phishing email forensics, attack surface scanning, IOC enrichment, and AI-powered triage with MITRE ATT&CK mapping.
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
 - [Rekall](http://www.rekall-forensic.com/) - Advanced forensic and incident response framework.
 - [TheHive](https://thehive-project.org/) - Scalable, free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, and CERTs, featuring tight integration with MISP.
