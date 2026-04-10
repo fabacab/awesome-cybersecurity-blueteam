@@ -166,6 +166,7 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 - [helm-secrets](https://github.com/jkroepke/helm-secrets) - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
 - [terrascan](https://runterrascan.io/) - Static code analyzer for Infrastructure as Code tools that helps detect compliance and security violations to mitigate risk before provisioning cloud native resources.
 - [tfsec](https://aquasecurity.github.io/tfsec/) - Static analysis security scanner for your Terraform code designed to run locally and in CI pipelines.
+- [VulnHawk](https://github.com/momenbasel/vulnhawk) - AI-powered static application security testing (SAST) tool that detects business logic flaws, missing authorization checks, and IDOR vulnerabilities through cross-file context analysis, with SARIF output and GitHub Actions integration.
 
 ### Application or Binary Hardening
 
