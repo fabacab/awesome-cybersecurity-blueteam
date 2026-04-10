@@ -236,6 +236,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [USB Keystroke Injection Protection](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
 - [chkrootkit](http://chkrootkit.org/) - Locally checks for signs of a rootkit on GNU/Linux systems.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=fabacab_awesome-cybersecurity-blueteam) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
 ### Sandboxes
 
 - [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
