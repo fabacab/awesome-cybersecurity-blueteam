@@ -251,6 +251,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
 
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
+- [NullSec LogReaper](https://github.com/bad-antics/nullsec-logreaper) - High-speed log analysis and forensics tool with multi-format parsing, pattern matching, timeline reconstruction, and anomaly detection.
 - [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
 
