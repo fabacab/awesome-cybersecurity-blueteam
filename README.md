@@ -327,6 +327,8 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 - [RedEye](https://cisagov.github.io/RedEye/) - Analytic tool to assist both Red and Blue teams with visualizing and reporting command and control activities, replay and demonstrate attack paths, and more clearly communicate remediation recommendations to stakeholders.
 
+- [TryHackMe](https://tryhackme.com/) - Online platform for learning cybersecurity through hands-on labs, including dedicated paths for Blue Teaming and SOC Analysis.
+
 ## Security configurations
 
 (Also known as *secure-by-default baselines* and *implemented best practices*.)
