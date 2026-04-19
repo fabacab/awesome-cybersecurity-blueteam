@@ -250,7 +250,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
 
-- [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
+- [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.              - [StegoForge](https://github.com/Nour833/StegoForge) - Zero-dependency forensics engine utilizing offline AI and visual diff heatmaps to detect and extract covert steganography payloads from media files.
 - [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
 
