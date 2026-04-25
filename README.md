@@ -61,6 +61,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 - [macOS-based defenses](#macos-based-defenses)
 - [Windows-based defenses](#windows-based-defenses)
   - [Active Directory](#active-directory)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with cloud security monitoring: supply chain security (SBOM, SLSA, Cosign), Kyverno policy enforcement, and compliance dashboards. CNCF Sandbox project.
 
 ## Automation and Convention
 
