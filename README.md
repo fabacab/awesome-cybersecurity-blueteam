@@ -76,6 +76,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 ### Code libraries and bindings
 
 - [MultiScanner](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
+- [pdf-defang](https://github.com/kovetz-PDF/pdf-defang) - Python library that strips JavaScript, OpenAction, Launch actions, embedded files, and other active content from PDFs. Use it to defang user-uploaded PDFs before serving them back. Built on pikepdf; MIT licensed.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell interface to VirusTotal.com APIs.
 - [censys-python](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
 - [libcrafter](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
