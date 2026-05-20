@@ -337,6 +337,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 - [Crossfeed](https://docs.crossfeed.cyber.dhs.gov/) - Continuously enumerates and monitors an organization’s public-facing attack surface in order to discover assets and flag potential security flaws.
 - [Starbase](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
+- [Noxen](https://noxen.app/) - Mac-native, agentless vulnerability scanner for SSH-managed Linux fleets. Signed daily CVE feed, scheduled background scans, SIEM-NDJSON export for Wazuh/Splunk/ELK, and CIS Controls v8 / SOC 2 / ISO 27001 compliance mapping.
 
 ### Endpoint Detection and Response (EDR)
 
