@@ -272,6 +272,7 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 - [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 - [Untitled Goose Tool](https://github.com/cisagov/untitledgoosetool) - Assists incident response teams by exporting cloud artifacts from Azure/AzureAD/M365 environments in order to run a full investigation despite lacking in logs ingested by a SIEM.
+- [Open Investigator](https://github.com/SEc-123/open-investigator) - Local, read-only AI incident response CLI for Linux and Windows host triage that records evidence JSONL, command logs, and Markdown reports without remediation authority.
 
 ## Network perimeter defenses
 
