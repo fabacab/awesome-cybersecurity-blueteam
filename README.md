@@ -390,6 +390,8 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook.
 - [Logging Made Easy (LME)](https://www.cisa.gov/resources-tools/services/logging-made-easy) - Free and open logging and protective monitoring solution serving.
 - [MozDef](https://github.com/mozilla/MozDef) - Automate the security incident handling process and facilitate the real-time activities of incident handlers.
+- [CTI as a Code](https://github.com/anpa1200/CTI_as_a_Code) - Docker Compose CTI analyst lab with OpenCTI, TheHive, Elastic SIEM, Cortex, templates, and structured detection-engineering assignments.
+- [Operation Desert Hydra](https://github.com/anpa1200/operation-desert-hydra) - CTI-to-detection validation lab with OpenCTI graphing, Kibana evidence, Sigma/KQL/SPL detections, and ATT&CK coverage mapping.
 - [PSHunt](https://github.com/Infocyte/PSHunt) - PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.
 - [PSRecon](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
