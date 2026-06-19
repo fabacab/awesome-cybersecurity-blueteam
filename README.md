@@ -413,6 +413,7 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 - [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 - [Viper](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 - [YARA](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
+- [AdversaryGraph](https://github.com/anpa1200/adversarygraph) - Self-hosted CTI-to-detection workbench for mapping reports and IOCs to ATT&CK, enriching observables, comparing actor/TTP coverage, and generating detection-rule handoff artifacts.
 
 ### Fingerprinting
 
