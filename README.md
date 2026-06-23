@@ -305,6 +305,8 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails. 
 - [mailspoof](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
+- [Protego Email Security Checker](https://protego.me/tools/email-security) - Free online checker for SPF, DKIM, and DMARC records; surfaces misconfigurations that allow email spoofing with no sign-up required.
+- [Protego Domain Report](https://protego.me/tools/domain-report) - Passive domain security report covering DNS records, open ports, SSL certificate status, and WHOIS data in a single view.
 
 ## Preparedness training and wargaming
 
@@ -437,6 +439,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [Certbot](https://certbot.eff.org/) - Free tool to automate the issuance and renewal of TLS certificates from the [LetsEncrypt Root CA](https://letsencrypt.org/) with plugins that configure various Web and e-mail server software.
 - [MITMEngine](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
+- [Protego SSL Checker](https://protego.me/tools/ssl-checker) - Online SSL certificate monitor with Certificate Transparency log search; checks validity, chain, and expiration without installing any tooling.
 - [Tor](https://torproject.org/) - Censorship circumvention and anonymizing overlay network providing distributed, cryptographically verified name services (`.onion` domains) to enhance publisher privacy and service availability.
 
 ### Overlay and Virtual Private Networks (VPNs)
