@@ -346,6 +346,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
+- [AEGIS](https://github.com/conchaestradamiguelangel-droid/aegis) - Autonomous intrusion detection and prevention system with 9 active defense layers (honeypot, behavioral analysis, ML-based anomaly detection, adaptive rate limiting, geo-blocking, protocol analysis, reputation scoring, traffic shaping, incident correlation) and post-quantum (ML-DSA-87, NIST FIPS 204) signed alerts for tamper-evident threat records.
 - [Arkime](https://github.com/arkime/arkime) - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 - [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 - [Maltrail](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
