@@ -395,6 +395,7 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
+- [sigwood](https://github.com/helixmap/sigwood) - Local-first command-line threat-hunting tool that detects anomalous activity in Zeek, Pi-hole/dnsmasq, syslog, and CloudTrail logs.
 
 ## Threat intelligence
 
