@@ -366,6 +366,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
+- [SOCTalk](https://github.com/soctalk/soctalk) - Open-source, LLM-driven SOC automation platform for MSPs and MSSPs, built on Wazuh. Continuously triages, investigates, and escalates alerts through a two-tier AI pipeline with human-in-the-loop review, multi-tenant Kubernetes isolation, and built-in incident response workflows. Apache 2.0.
 
 ### Service and performance monitoring
 
