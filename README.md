@@ -235,6 +235,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Shufflecake](https://shufflecake.net/) - Plausible deniability for multiple hidden filesystems on Linux.
 - [USB Keystroke Injection Protection](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
 - [chkrootkit](http://chkrootkit.org/) - Locally checks for signs of a rootkit on GNU/Linux systems.
+- [VPS-SECURE](https://github.com/rockballslab/vps-secure) - One-command hardening script that turns a bare Ubuntu 24.04 VPS into a hardened server (SSH key-only, CrowdSec, Endlessh honeypot, UFW with Docker bypass fixed, kernel hardening, AIDE/rkhunter/auditd).
 
 ### Sandboxes
 
