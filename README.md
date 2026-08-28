@@ -303,6 +303,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) - Outlook add-in used to help your users to report suspicious e-mails to security teams.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) - Framework that will assist with the detection and response to phishing attacks.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails. 
+- [VoltPhish](https://github.com/Baymax-armed/Voltphish) - Self-hosted platform to run internal phishing simulations and security-awareness training: multi-vector lures (email, QR, calendar), a native Outlook/Gmail report-phish button, adaptive training auto-enrollment, and per-user/department human-risk analytics.
 - [mailspoof](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
 
