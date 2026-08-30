@@ -230,6 +230,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Artillery](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
 - [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - Free tool for Windows systems aimed to alert you to the presence of malware that may be communicating over the network.
 - [Fail2ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
+- [firefox-all-session-tokens](https://github.com/rz-x/firefox-all-session-tokens) - Browser extension to inspect and export active session tokens as shell variables for security analysis.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - Fully open source and free, feature-rich, Host-based Instrusion Detection System (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
 - [Shufflecake](https://shufflecake.net/) - Plausible deniability for multiple hidden filesystems on Linux.
