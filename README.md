@@ -94,6 +94,7 @@ See also [Security Information and Event Management (SIEM)](#security-informatio
 See also [asecure.cloud/tools](https://asecure.cloud/tools/).
 
 - [Aaia](https://github.com/rams3sh/Aaia) - Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.
+- [Cloud Security Audit Scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts) - Pre-audit evidence collection scripts for AWS, GCP, and Azure with SOC 2 control mappings. Read-only, Python-based.
 - [Falco](https://falco.org/) - Behavioral activity monitor designed to detect anomalous activity in containerized applications, hosts, and network packet flows by auditing the Linux kernel and enriched by runtime data such as Kubernetes metrics.
 - [Kata Containers](https://katacontainers.io/) - Secure container runtime with lightweight virtual machines that feel and perform like containers, but provide stronger workload isolation using hardware virtualization technology as a second layer of defense.
 - [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
