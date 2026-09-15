@@ -461,6 +461,7 @@ See also [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS
 - [Santa](https://github.com/google/santa) - Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.
 - [Stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [macOS Fortress](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+- [macharden](https://github.com/jankesec/macharden) - Pure native Zsh/Bash macOS security audit, posture assessment, and baseline drift engine with 54 CIS/NIST controls, OASIS SARIF v2.1.0 output, and single-file Liquid Glass HTML5 dashboard.
 
 ## Windows-based defenses
 
