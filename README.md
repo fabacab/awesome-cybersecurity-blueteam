@@ -231,6 +231,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - Free tool for Windows systems aimed to alert you to the presence of malware that may be communicating over the network.
 - [Fail2ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - Fully open source and free, feature-rich, Host-based Instrusion Detection System (HIDS).
+- [talus](https://github.com/BartoszOsiej/talus-process-monitor) - eBPF-based ransomware detection and response agent for Linux (Rust): sliding-window syscall heuristics with automated SIGKILL containment.
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
 - [Shufflecake](https://shufflecake.net/) - Plausible deniability for multiple hidden filesystems on Linux.
 - [USB Keystroke Injection Protection](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
