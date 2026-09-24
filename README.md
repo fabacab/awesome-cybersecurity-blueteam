@@ -469,6 +469,7 @@ See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#s
 - [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) - Utility that disables a number of risky Windows features.
 - [NotRuler](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
+- [PostureKit](https://github.com/abdullahzarshaid/posturekit) - Credentialed, evidence-first Windows and network security posture assessment that reads host configuration read-only, seals it as tamper-evident evidence, and evaluates it against a transparent rule set.
 - [Sandboxie](https://www.sandboxie.com/) - Free and open source general purpose Windows application sandboxing utility.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - Audit a Windows host's root certificate store against Microsoft's [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
