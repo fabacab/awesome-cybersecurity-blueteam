@@ -297,6 +297,7 @@ See also [Wikipedia: List of router and firewall distributions](https://en.wikip
 
 See also [awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools).
 
+- [Big Double D](https://devout.digital/) - Security-awareness training platform with configurable phishing simulation campaigns, branching-scenario training modules, and account-lockout/reporting policies matched to industry norms (e.g. KnowBe4's lockout policy) for lower procurement friction.
 - [CertSpotter](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
 - [Gophish](https://getgophish.com/) - Powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing.
 - [King Phisher](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
