@@ -486,3 +486,6 @@ See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#s
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+
+* [ProxSuite PRO](https://github.com/prox0959/ProxSuite-PRO) - 25-in-1 native x64 Windows live memory forensics (Module Stomping, Process Ghosting, NTDLL syscall unhooking), LSASS SSP audit, C2 Named Pipe scanner, and DFIR triage suite.
