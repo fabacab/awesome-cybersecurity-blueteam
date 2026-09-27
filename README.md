@@ -340,6 +340,8 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 ### Endpoint Detection and Response (EDR)
 
+- [MemGuard](https://github.com/prox0959/MemGuard) - Zero-dependency Windows LSASS memory shield, NTDLL syscall stub integrity auditor, and remote handle stripper written in pure Python (`ctypes`).
+- [OmniTriage](https://github.com/prox0959/OmniTriage) - Sub-second, zero-dependency Windows live DFIR triage engine for rapid USB incident response.
 - [Wazuh](https://wazuh.com/) - Open source, multiplatform agent-based security monitoring based on a fork of OSSEC HIDS.
 
 ### Network Security Monitoring (NSM)
