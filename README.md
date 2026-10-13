@@ -413,6 +413,7 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 - [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 - [Viper](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 - [YARA](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
+- [ICHI – Internet Cyber Health Index](https://ichi.global/) - Free public-source dashboard providing an outside-in view of internet cyber pressure and triage evidence. Aggregates vulnerability, exploitation, DDoS, ransomware, and threat-actor signals with linked source evidence and role-specific views for SOC, vulnerability management, threat intelligence, and executive work.
 
 ### Fingerprinting
 
