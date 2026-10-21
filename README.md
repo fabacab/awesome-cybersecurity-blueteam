@@ -211,6 +211,7 @@ See also [§ Dependency confusion](#dependency-confusion).
 - [Helm GPG (GnuPG) Plugin](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
 - [Notary](https://github.com/theupdateframework/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
 - [in-toto](https://in-toto.io/) - Framework to secure the integrity of software supply chains.
+- [npm-install-audit](https://github.com/cryptostrapon/npm-install-audit) - Read only Node script that lists npm install hooks and flags risky patterns in a cloned repository before you run it.
 
 ## Honeypots
 
