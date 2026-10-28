@@ -82,6 +82,7 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 - [python-dshield](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
+* [Protocol One — ACP v3.1 Reference Verifiers](https://protocolone.store/pages/ai-index) - Zero-dependency Python verifiers for cryptographic human-intent verification, CFO deepfake wire-fraud defense, and `HMAC-SHA256` AI agent HITL execution gates.
 
 ### Security Orchestration, Automation, and Response (SOAR)
 
