@@ -178,6 +178,7 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [Chef InSpec](https://www.chef.io/products/chef-inspec) - Language for describing security and compliance rules, which become automated tests that can be run against IT infrastructures to discover and report on non-compliance.
 - [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - Both a library and a command line tool (`oscap`) used to evaluate a system against SCAP baseline profiles to report on the security posture of the scanned system(s). 
+- [GrundschutzCheck](https://github.com/Abbasi26/grundschutz-check) - Read-only checks of a Windows 11 client against published German BSI IT-Grundschutz recommendations, with exceptions, baseline comparison, and a cited evidence report.
 
 ### Dependency confusion
 
