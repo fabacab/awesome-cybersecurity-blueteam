@@ -341,6 +341,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 ### Endpoint Detection and Response (EDR)
 
 - [Wazuh](https://wazuh.com/) - Open source, multiplatform agent-based security monitoring based on a fork of OSSEC HIDS.
+- [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Production Rust EDR, Host IPS, and 7-Ring AI agent containment platform with eBPF/ETW kernel sensors, YARA-X memory scanning, ransomware canary protection, and Universal Binary/Bytecode inspection.
 
 ### Network Security Monitoring (NSM)
 
