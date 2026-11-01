@@ -480,6 +480,7 @@ See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#s
 - [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
 - [PingCastle](https://www.pingcastle.com/) - Active Directory vulnerability detection and reporting tool.
 - [PlumHound](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
+- [HorusEye](https://github.com/Omar-tamerr/HorusEye) - Maps Active Directory attack paths from BloodHound data and ranks remediation options by how many routes to Domain Admin each one breaks, with evidence and detection event IDs.
 
 ## License
 
