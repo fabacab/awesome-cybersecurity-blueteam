@@ -219,6 +219,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 - [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 - [Manuka](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
+- [SanderDeflect](https://github.com/aleksandergrambelik-png/SanderDeflect) - Standalone Android APK defense dashboard with a Math Challenge access gate, Decoy HTML, Tarpit, Sinkhole JSON logging, and Payload Mirroring. Zero dependencies.
 
 ### Tarpits
 
