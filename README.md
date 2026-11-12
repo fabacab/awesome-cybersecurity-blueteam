@@ -253,6 +253,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 - [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
+- [MaldocTrace](https://github.com/debugactiveprocess/MaldocTrace) - Static analyzer and safe VBA emulator for malicious Office documents that recovers deobfuscated payloads, launched commands, and IOCs without running Office.
 
 ### IR management consoles
 
