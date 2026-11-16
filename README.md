@@ -253,6 +253,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 - [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) - Automates your incident response with zero security preparedness assumptions.
+- [ClearLens](https://github.com/Ziqi/clearlens) - Zero-backend offline Business Email Compromise (BEC), wire-fraud, and digital coercion triage workbench with defensive Outbound DLP guardrails and multi-currency FX de-duplication.
 
 ### IR management consoles
 
