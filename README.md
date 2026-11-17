@@ -425,6 +425,7 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 - [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - Collection of Snort and YARA rules to detect attacks carried out with FireEye's own Red Team tools, first released after FireEye disclosed a breach in December 2020.
 - [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 - [YARA Rules](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
+- [Fromagegate OT Countermeasures](https://github.com/GabrieleDattile/CVE-2025-41450-Fromagegate) - Collection of Suricata IDS signatures, Sigma SIEM rules, and defense blueprints to detect and mitigate exploitation of Danfoss AK-SM 8xxA refrigeration controllers (CVE-2025-41450).
 
 ## Tor Onion service defenses
 
