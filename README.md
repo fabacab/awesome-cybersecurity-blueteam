@@ -263,6 +263,7 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 - [Rekall](http://www.rekall-forensic.com/) - Advanced forensic and incident response framework.
 - [TheHive](https://thehive-project.org/) - Scalable, free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, and CERTs, featuring tight integration with MISP.
 - [threat_note](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
+- [Wazuh Alert Manager](https://github.com/xrisbarney/Wazuh-alert-manager) - Apache-2.0 plugin for the Wazuh dashboard that adds alert triage (status, assignee, comments), case management with evidence and attack-path graphs, automation rules and reporting; native Wazuh alert indices stay read-only.
 
 ### Evidence collection
 
