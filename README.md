@@ -363,7 +363,6 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [netsniff-ng](http://netsniff-ng.org/) -  Free and fast GNU/Linux networking toolkit with numerous utilities such as a connection tracking tool (`flowtop`), traffic generator (`trafgen`), and autonomous system (AS) trace route utility (`astraceroute`).
 - [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local CLI and MCP server that audits what smart home devices on your own network send, with an A to F grade and HTML reports.
 
-
 ### Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
