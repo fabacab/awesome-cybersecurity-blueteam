@@ -361,6 +361,8 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Wireshark](https://www.wireshark.org) - Free and open-source packet analyzer useful for network troubleshooting or forensic netflow analysis.
 - [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
 - [netsniff-ng](http://netsniff-ng.org/) -  Free and fast GNU/Linux networking toolkit with numerous utilities such as a connection tracking tool (`flowtop`), traffic generator (`trafgen`), and autonomous system (AS) trace route utility (`astraceroute`).
+- [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local CLI and MCP server that audits what smart home devices on your own network send, with an A to F grade and HTML reports.
+
 
 ### Security Information and Event Management (SIEM)
 
