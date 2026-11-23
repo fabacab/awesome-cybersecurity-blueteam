@@ -278,6 +278,7 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 - [Gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 - [ssh-audit](https://github.com/jtesta/ssh-audit) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
+- [TryTheHandle](https://trythehandle.eu/) - Free external security scanner for servers and domains that checks TLS, HTTP security headers, DNS, e-mail (SPF, DKIM, DMARC) configuration, and exposed files, producing a report scored out of 100.
 
 ### Firewall appliances or distributions
 
