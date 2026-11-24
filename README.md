@@ -341,6 +341,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 ### Endpoint Detection and Response (EDR)
 
 - [Wazuh](https://wazuh.com/) - Open source, multiplatform agent-based security monitoring based on a fork of OSSEC HIDS.
+- [NorthNarrow](https://github.com/northnarrow/northnarrow-new) - Open source endpoint detection and response agent for Linux, written in Rust, with eBPF sensors, BPF-LSM self-protection against root and signed, hash-chained evidence kept on the host (alpha, observe-only).
 
 ### Network Security Monitoring (NSM)
 
